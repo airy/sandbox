@@ -15,3 +15,9 @@ get in sandbox directory
 install dependencies
 
     $ bundle install
+
+## Testing
+
+Sandbox uses rspec test framework. You can run specs by rspec command.
+
+    $ bundle exec rspec
