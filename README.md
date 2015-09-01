@@ -29,3 +29,9 @@ Sandbox uses simplecov to generate coverage reports.
     $ bundle exec rspec -r simplecov
 
 *You can add coverage directory to your global .gitignore file.*
+
+### Continuous Testing
+
+Sandbox uses guard rspec to run test continuously.
+
+    $ bundle exec guard
