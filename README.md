@@ -11,3 +11,7 @@ clone this repository
 get in sandbox directory
 
     $ cd sandbox
+
+install dependencies
+
+    $ bundle install
